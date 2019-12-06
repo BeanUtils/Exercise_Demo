@@ -18,4 +18,8 @@ public class Actor {
     @Getter
     private String name;
 
+    @Setter
+    @Getter
+    private String address;
+
 }
